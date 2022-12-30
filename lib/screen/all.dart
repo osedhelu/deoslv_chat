@@ -1,6 +1,6 @@
-export 'AppScreen.dart';
-export './ChatScreen.dart';
-export './UsersScreen.dart';
-export './LoginScreen.dart';
-export './RegisterScreen.dart';
-export './LoadingScreen.dart';
+export 'app_screen.dart';
+export 'chat_screen.dart';
+export 'user_screen.dart';
+export 'login_screen.dart';
+export 'register_screen.dart';
+export 'loading_screen.dart';
